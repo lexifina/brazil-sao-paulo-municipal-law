@@ -1,0 +1,4 @@
+# Lei nº 1.674, de 22 de Abril de 2025 "Altera o Parágrafo 6º do art. 8º da Lei 135 de 1995, e dá outras providências" Autoria: Vereador Salmir Gomes da Silva Processo: 073/2025 Projeto de Lei: 005/2025 Promulgação: 22/04/2025 Publicação: 25/04/2025 - BOM 1225 Decreto:
+Alterações:
+Observações:
+Vereador Taciano Goulart Cerqueira Leite, Vice-Presidente da Câmara Municipal de Bertioga, Presidente Interino em Exercício, faço saber que o Plenário aprovou a presente em 2ª Discussão e Redação Final na 5ª Sessão Extraordinária realizada em 26 de março do corrente; e considerando o decurso do prazo legal sem promulgação e publicação pelo Poder Executivo Municipal; e, considerando ainda o número sequencial de Lei Ordinária informado pelo Executivo Municipal através do ofício nº 204/2025-SG/PMB protocolado junto à Câmara Municipal de Bertioga em 22 de abril de 2025; em cumprimento aos dispositivos legais vigentes, promulgo:
