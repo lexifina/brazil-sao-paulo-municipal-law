@@ -1,0 +1,3 @@
+# Lei nº 1.682, de 12 de Junho de 2025 "Dispõe sobre a Política de Prevenção e Combate às Amputações em Pacientes Diabéticos e dá outras providências" Autoria: Vereador Salmir Gomes da Silva Processo: 112/2025 Projeto de Lei: 012/2025 Autógrafo: 020/2025 Promulgação: 12/06/2025 Publicação: 13/06/2025 - BOM 1232 Decreto:
+Alterações:
+Observações: Com Veto Parcial em tramitação - atualizar após votação (Art. 4º) Marcelo Heleno Vilares, Prefeito do Município de Bertioga, faço saber que o Poder Legislativo Municipal aprovou em 2ª Discussão e Redação Final na 16ª Sessão Ordinária, realizada no dia 03 de junho de 2025, e que sanciono e promulgo a seguinte Lei:
