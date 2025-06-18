@@ -1,0 +1,3 @@
+# Lei nº 1.683, de 12 de Junho de 2025 "Dispõe sobre a obrigatoriedade da implantação de lixeiras de coleta seletiva de resíduos sólidos nas escolas públicas do município de Bertioga/SP, e dá outras providências" Autoria: Vereadora Michele Bernardeli Russo Processo: 148/2025 Projeto de Lei: 020/2025 Autógrafo: 019/2025 Promulgação: 17/06/2025 Publicação: 18/06/2025 - BOM 1233 Decreto:
+Alterações:
+Observações: Com Veto Parcial em tramitação - atualizar após votação (Art. 5º) Marcelo Heleno Vilares, Prefeito do Município de Bertioga, faço saber que o Poder Legislativo Municipal aprovou em 2ª Discussão e Redação Final na 16ª Sessão Ordinária, realizada no dia 03 de junho de 2025, e que sanciono e promulgo a seguinte Lei:
