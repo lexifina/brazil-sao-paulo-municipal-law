@@ -1,0 +1,3 @@
+# Lei nº 1.690, de 30 de junho de 2025 "Institui o Programa de Adoção de Lixeiras Industriais por empresas privadas no Município de Bertioga e dá outras providências" Autoria: Vereador Salmir Gomes da Silva Processo: 187/2025 Projeto de Lei: 025/2025 Autógrafo: 036/2025 Promulgação: 30/06/2025 Publicação: 04/07/2025 - BOM 1235 Decreto:
+Alterações:
+Observações: Com Veto Parcial em tramitação (art. 4, I e art. 5º, § único) - Atualizar após votação Marcelo Heleno Vilares, Prefeito do Município de Bertioga, faço saber que o Poder Legislativo Municipal aprovou em 2ª Discussão e Redação Final na 10ª Sessão Extraordinária, realizada no dia 10 de junho de 2025, e que sanciono e promulgo a seguinte Lei:
