@@ -1,0 +1,4 @@
+# Lei Complementar nº 204, de 16 de Julho de 2025 "Altera a Lei Complementar Municipal nº 04, de 21 de dezembro de 2001, que institui as Zonas Especiais de Interesse Social - ZEIS, bem como as normas para regularização fundiária das áreas ocupadas ou não e estabelece normas para implantação de Empreendimentos Habitacionais de Interesse Social - EHIS, nos termos que especifica" Autoria: Marcelo Heleno Vilares - Prefeito do Município Processo: 159/2025 Projeto de Lei Complementar: 008/2025 Autógrafo: 044/2025 Promulgação: 16/07/2025 Publicação: 18/07/2025 - BOM 1238 Decreto:
+Alterações:
+Observações:
+Marcelo Heleno Vilares, Prefeito do Município, faço saber que o Poder Legislativo Municipal aprovou em 2ª Discussão e Redação Final na 13ª Sessão Extraordinária, realizada no dia 15 de julho de 2025, e que sanciono e promulgo a seguinte Lei:
