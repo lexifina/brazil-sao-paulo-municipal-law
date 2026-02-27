@@ -1,0 +1,3 @@
+# LEI Nº 6.022 DE 27 DE FEVEREIRO DE 2026.
+DISPÕE SOBRE A ALTERAÇÃO DA LEI 5.977/2025 DE 14 DE FEVEREIRO DE 2025 SOBRE GRATIFICAÇÃO, TITULAÇÃO E TABELA DE REFERÊNCIAS SALARIAIS CONCEDIDA AOS SERVIDORES DA CÂMARA MUNICIPAL DE PORTO FELIZ, CONFORME ESPECIFICA, E DÁ OUTRAS PROVIDÊNCIAS.
+PL nº 01/2026 - Processo 3.533/2026 - Autógrafo 6040 - Autoria da Mesa Diretora da Câmara Municipal de Vereadores de Porto Feliz CELIO PEIXOTO DOS SANTOS, PREFEITO DO MUNICÍPIO DE PORTO FELIZ, Estado de São Paulo, no uso de suas atribuições legais, FAZ SABER, que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
