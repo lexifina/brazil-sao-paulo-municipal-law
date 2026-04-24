@@ -1,0 +1,3 @@
+# LEI N° 5.625, DE 22 DE ABRIL DE 2.026 "Concede remissão de tributos municipais para pessoas jurídicas e contribuintes individuais cujo imóvel tenha sido comprovadamente afetado por enchentes no Município de São João da Boa Vista."
+(Autoria: Prefeito Vanderlei Borges de Carvalho) VANDERLEI BORGES DE CARVALHO, Prefeito Municipal de São João da Boa Vista, Estado de São Paulo, usando de suas atribuições legais, FAZ SABER que a Câmara Municipal aprovou e eu promulgo a seguinte...
+L E I :
