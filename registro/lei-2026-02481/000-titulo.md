@@ -1,0 +1,2 @@
+# LEI Nº 2.481 DE 30 DE ABRIL DE 2026 AUTORIZA O PODER EXECUTIVO A CONTRATAR OPERAÇÃO DE CRÉDITO COM A CAIXA ECONÔMICA FEDERAL, COM A GARANTIA DA UNIÃO E DÁ OUTRAS PROVIDÊNCIAS.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
