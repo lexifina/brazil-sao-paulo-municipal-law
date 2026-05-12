@@ -1,0 +1,2 @@
+# LEI Nº 2.487 DE 12 DE MAIO DE 2026 AUTORIZA O PODER EXECUTIVO MUNICIPAL A RECEBER EM DOAÇÃO "PARTE DO LOTE 01 DA QUADRA A" DO LOTEAMENTO DENOMINADO "JARDIM LEBLON", DESTINADO À IMPLANTAÇÃO DE ROTATÓRIA INTERBAIRROS.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
