@@ -1,0 +1,2 @@
+# LEI Nº 2.491 DE 20 DE MAIO DE 2026 DISPÕE SOBRE A RECOMPOSIÇÃO E O PAGAMENTO RETROATIVO DE DIREITOS FUNCIONAIS AOS SERVIDORES DO PODER LEGISLATIVO DO MUNICÍPIO DE REGISTRO, REFERENTES AO PERÍODO SUSPENSO PELA LEI COMPLEMENTAR Nº 173/2020, E DÁ OUTRAS PROVIDÊNCIAS.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
