@@ -1,0 +1,2 @@
+# LEI Nº 2.492 DE 26 DE MAIO DE 2026 AUTORIZA O PODER EXECUTIVO A DELEGAR CONCESSÃO DE SERVIÇOS PÚBLICOS DE MANEJO DE RESÍDUOS SÓLIDOS TOTAL OU PARCIALMENTE, E DÁ OUTRAS PROVIDÊNCIAS.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
