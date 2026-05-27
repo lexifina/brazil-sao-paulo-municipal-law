@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 687, DE 27 DE MAIO DE 2026.
+Dispõe sobre a autorização para pagamento retroativo de vantagens funcionais aos servidores do Poder Legislativo do Município de Mococa, nos termos do art. 8º-A da Lei Complementar Federal nº 173, de 27 de maio de 2020, incluído pela Lei Complementar Federal nº 226, de 12 de janeiro de 2026, e dá outras providências.
+CLAYTON DIVINO BOCH, Presidente da Câmara Municipal de Mococa, FAÇO SABER, que a Câmara Municipal de Mococa, em sessão realizada no dia 04 de maio de 2026, aprovou o Projeto de Lei Complementar nº 008/2026, de autoria da Mesa Diretora da Câmara Municipal, nos termos do art. 40, parágrafo único da Lei Orgânica do Município, e eu promulgo a seguinte Lei:
