@@ -1,0 +1,2 @@
+# LEI Nº 2.498 DE 06 DE JULHO DE 2026 DISPÕE SOBRE A AUTORIZAÇÃO PARA A DOAÇÃO DE ÁREAS SITUADAS NO DISTRITO INDUSTRIAL DO MUNICÍPIO DE REGISTRO, COM ENCARGOS, E DÁ OUTRAS PROVIDÊNCIAS.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
