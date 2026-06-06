@@ -1,0 +1,2 @@
+# LEI Nº 2.501 DE 06 DE JULHO DE 2026 AUTORIZA O PODER EXECUTIVO MUNICIPAL A CEDER IMÓVEL EM COMODATO PARA A ASSOCIAÇÃO DA PESSOA COM DEFICIÊNCIA DE REGISTRO - AÇÃO, E DÁ OUTRAS PROVIDÊNCIAS.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
