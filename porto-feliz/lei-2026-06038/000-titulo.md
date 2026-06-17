@@ -1,0 +1,3 @@
+# LEI Nº 6.038 DE 17 DE JUNHO DE 2026.
+DÁ NOVA REDAÇÃO A LEI MUNICIPAL N° 6035/2026 QUE DISPÕE SOBRE A AUTORIZAÇÃO PARA ALIENAÇÃO POR DOAÇÃO AO FUNDO DE ARRENDAMENTO RESIDENCIAL - FAR, CONFORME ESPECIFICA, E DÁ OUTRAS PROVIDÊNCIAS.
+Projeto de Lei nº 31/2026 - Processo 7.926/2026 - Autógrafo 6056 CELIO PEIXOTO DOS SANTOS, PREFEITO DO MUNICÍPIO DE PORTO FELIZ, Estado de São Paulo, no uso de suas atribuições legais, FAZ SABER, que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
