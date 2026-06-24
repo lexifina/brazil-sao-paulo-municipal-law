@@ -1,0 +1,2 @@
+# LEI Nº 2.496 DE 24 DE JUNHO DE 2026 ALTERA E ACRESCENTA DISPOSITIVOS DA LEI Nº 2.017/2021, QUE DISPÕE PROGRAMA MUNICIPAL DE ATRAÇÃO E AMPLIAÇÃO DE INVESTIMENTOS PARA O DESENVOLVIMENTO ECONÔMICO DE REGISTRO - INVESTE REGISTRO.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
