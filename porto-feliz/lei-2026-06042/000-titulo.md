@@ -1,0 +1,3 @@
+# LEI Nº 6.042 DE 27 DE JULHO DE 2026.
+INSTITUI E INCLUI NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PORTO FELIZ O DIA MUNICIPAL DO PROTETOR INDEPENDENTE DE ANIMAIS, A SER COMEMORADO, ANUALMENTE, NO DIA 04 DE OUTUBRO.
+Projeto de Lei nº 15/2026 - Processo 11.283/2026 - Autógrafo 6060 - Autoria Legislativo CELIO PEIXOTO DOS SANTOS, PREFEITO DO MUNICÍPIO DE PORTO FELIZ, Estado de São Paulo, no uso de suas atribuições legais, FAZ SABER, que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
