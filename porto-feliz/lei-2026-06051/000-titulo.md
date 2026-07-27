@@ -1,0 +1,3 @@
+# LEI Nº 6.051 DE 27 DE JULHO DE 2026.
+DISPÕE SOBRE A AUTORIZAÇÃO PARA ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR E ESPECIAL NO ORÇAMENTO VIGENTE, CONFORME ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS.
+Projeto de Lei nº 35/2026 - Processo 9.318/2026 - Autógrafo 6069 - Processo SAAE 448/2026 CELIO PEIXOTO DOS SANTOS, PREFEITO DO MUNICÍPIO DE PORTO FELIZ, Estado de São Paulo, no uso de suas atribuições legais, FAZ SABER, que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
