@@ -1,0 +1,2 @@
+# LEI Nº 2.515 DE 11 DE SETEMBRO DE 2026 ESTABELECE TEMPO DE ATENDIMENTO A USUÁRIOS NA AGÊNCIA DA SABESP (COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO) NO MUNICÍPIO DE REGISTRO E DÁ OUTRAS PROVIDÊNCIAS.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
