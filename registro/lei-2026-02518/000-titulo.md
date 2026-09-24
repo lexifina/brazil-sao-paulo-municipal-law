@@ -1,0 +1,2 @@
+# LEI Nº 2.518 DE 24 DE SETEMBRO DE 2026 INSTITUI A SEMANA MUNICIPAL DE MOBILIZAÇÃO DOS HOMENS PELO FIM DA VIOLÊNCIA CONTRA AS MULHERES - CAMPANHA LAÇO BRANCO NO MUNICÍPIO DE REGISTRO/SP E DÁ OUTRAS PROVIDÊNCIAS.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
