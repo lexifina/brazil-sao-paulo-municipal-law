@@ -1,0 +1,2 @@
+# LEI Nº 2.519 DE 30 DE SETEMBRO DE 2026 ACRESCENTA OS INCISOS XXIV E XXV AO ART. 2º DA LEI MUNICIPAL Nº 2102/2022, QUE INSTITUI O PROGRAMA "BOLSA ATLETA" NO MUNICÍPIO DE REGISTRO.
+SAMUEL MOREIRA DA SILVA JUNIOR, Prefeito Municipal de Registro, Estado de São Paulo, usando das atribuições que lhe são conferidas por Lei, FAZ SABER que, aprovada pela Câmara Municipal de Registro/SP, sanciona e promulga a seguinte Lei:
