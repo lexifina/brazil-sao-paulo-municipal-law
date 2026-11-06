@@ -1,0 +1,25 @@
+{
+ "country": "BR-SP-MUNICIPAL",
+ "name": "São Paulo: municipal chambers",
+ "tz": "America/Sao_Paulo",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de São Paulo (SAPL)",
+ "units": [
+  {
+   "id": "sao-joao-da-boa-vista",
+   "folder": "sao-joao-da-boa-vista",
+   "name": "São João da Boa Vista",
+   "code": "BR-SP-SAO-JOAO-DA-BOA-VISTA",
+   "official_code": "3549102",
+   "source": "sapl.saojoaodaboavista.sp.leg.br"
+  },
+  {
+   "id": "bertioga",
+   "folder": "bertioga",
+   "name": "Bertioga",
+   "code": "BR-SP-BERTIOGA",
+   "official_code": "3506359",
+   "source": "sapl.bertioga.sp.leg.br"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "path": "br-sp-municipal",
+  "code": "BR-SP-MUNICIPAL",
+  "name": "São Paulo (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-sp",
+  "repo": "https://github.com/lexifina/brazil-sao-paulo-municipal-law",
+  "build": "built: the municipal law of São Paulo from the Câmaras Municipais' SAPL",
+  "units": [
+    "sao-joao-da-boa-vista",
+    "bertioga"
+  ]
+}

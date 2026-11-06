@@ -1,0 +1,590 @@
+{
+ "country": "BR-SP-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "bertioga/lei-2025-01709",
+   "unit": "bertioga",
+   "short": "Lei 1709/2025",
+   "title": "Lei nº 1.709, de 13 de novembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7583",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 8,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7583/lei-1709-2025.pdf",
+     "sha256": "58a889c72345d688c205b7d0e46ff7d0df0b8be32f9baaf227738032447ab5ae"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01708",
+   "unit": "bertioga",
+   "short": "Lei 1708/2025",
+   "title": "Lei nº 1.708, de 17 de outubro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7548",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 3,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7548/lei-1708-2025.pdf",
+     "sha256": "b4bb0c6c0c67f304111a3635871dafab28e426a63cd3a8a3d5436f9b5fada93a"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lc-2025-00211",
+   "unit": "bertioga",
+   "short": "LC 211/2025",
+   "title": "Lei Complementar nº 211, de 17 de outubro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7547",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 11,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7547/lc-0211-2025.pdf",
+     "sha256": "a3415013320dde3112d8fdd049efbe787c7e020cc3e65e1105e38886e03353e1"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01706",
+   "unit": "bertioga",
+   "short": "Lei 1706/2025",
+   "title": "Lei nº 1.706, de 1 de outubro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7532",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 5,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7532/lei-1706-2025.pdf",
+     "sha256": "81c004b1787abc440ed542abcf71ae9b1460e83a7b114213fab42d2efecb0947"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01705",
+   "unit": "bertioga",
+   "short": "Lei 1705/2025",
+   "title": "Lei nº 1.705, de 1 de outubro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7531",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 8,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7531/lei-1705-2025.pdf",
+     "sha256": "46852a52c3ca2f8254370eae6c1b415a070f3be25ef8cacfe21b1e86a907daa3"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01704",
+   "unit": "bertioga",
+   "short": "Lei 1704/2025",
+   "title": "Lei nº 1.704, de 25 de setembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7519",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 3,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7519/lei-1704-2025.pdf",
+     "sha256": "e2b71e02377b107b41415144d1c699c120608d598f17cf7572c828ec93b56eb3"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01703",
+   "unit": "bertioga",
+   "short": "Lei 1703/2025",
+   "title": "Lei nº 1.703, de 25 de setembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7518",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 3,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7518/lei-1703-2025.pdf",
+     "sha256": "f317bbe390d84eb800d63312e33a1420ad6c9f8f3a952d70f916d885b6fc10d5"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01702",
+   "unit": "bertioga",
+   "short": "Lei 1702/2025",
+   "title": "Lei nº 1.702, de 25 de setembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7517",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 5,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7517/lei-1702-2025.pdf",
+     "sha256": "0894d703df8a5a23eaeee4847d08ed102f01a6337b324c2d7117f746deec19a1"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01701",
+   "unit": "bertioga",
+   "short": "Lei 1701/2025",
+   "title": "Lei nº 1.701, de 25 de setembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7516",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 4,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7516/lei-1701-2025.pdf",
+     "sha256": "1cfc393ea7f7a0c6d89c6f587bc718badd321167fa142f463af83604fc997879"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lc-2025-00210",
+   "unit": "bertioga",
+   "short": "LC 210/2025",
+   "title": "Lei Complementar nº 210, de 25 de setembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7524",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 11,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7524/lc-0210-2025.pdf",
+     "sha256": "07eb71328cb6b7c106e31573fbab206c851e34ff62211de23036fa746acfdba7"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lc-2025-00208",
+   "unit": "bertioga",
+   "short": "LC 208/2025",
+   "title": "Lei Complementar nº 208, de 25 de setembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7522",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 23,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7522/lc-0208-2025.pdf",
+     "sha256": "f8ad78af6aad5b4884a7a82fe9dfaaf2d026bef5e393e1b4df0e53799758b793"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lc-2025-00207",
+   "unit": "bertioga",
+   "short": "LC 207/2025",
+   "title": "Lei Complementar nº 207, de 25 de setembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7521",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 16,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7521/lc-0207-2025.pdf",
+     "sha256": "141f5b23f6b08ac184b917c62cc976a70f99150b092bab566312effce8a0ce28"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lc-2025-00206",
+   "unit": "bertioga",
+   "short": "LC 206/2025",
+   "title": "Lei Complementar nº 206, de 25 de setembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7520",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 18,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7520/lc-0206-2025.pdf",
+     "sha256": "ffd3b7010962746a645ecb2146945dbcfa8124271f3a42644d538a44fc4b4a4e"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01699",
+   "unit": "bertioga",
+   "short": "Lei 1699/2025",
+   "title": "Lei nº 1.699, de 5 de setembro de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7471",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 8,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7471/lei-1699-2025.pdf",
+     "sha256": "6339c169bb2fc044dd2e6b43205de75b910a77b26309be1334ceb2db0f97f795"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01698",
+   "unit": "bertioga",
+   "short": "Lei 1698/2025",
+   "title": "Lei nº 1.698, de 14 de agosto de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7470",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 4,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7470/lei-1698-2025.pdf",
+     "sha256": "f1962e521f634425f8b03e272498c7525a2e3daca6b021c66917df883917b2c5"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lc-2025-00204",
+   "unit": "bertioga",
+   "short": "LC 204/2025",
+   "title": "Lei Complementar nº 204, de 16 de julho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7462",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 3,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7462/lc-0204-2025.pdf",
+     "sha256": "7847ec1eee2555c330443f56556f3fae0b3159f382475cfbbc00ca72714b0e02"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01697",
+   "unit": "bertioga",
+   "short": "Lei 1697/2025",
+   "title": "Lei nº 1.697, de 15 de julho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7469",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 10,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7469/lei-1697-2025.pdf",
+     "sha256": "1e834f310ca87908fc77651ddb103911865452dee9811034526a691b42486383"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01695",
+   "unit": "bertioga",
+   "short": "Lei 1695/2025",
+   "title": "Lei nº 1.695, de 4 de julho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7458",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 3,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7458/lei-1695-2025.pdf",
+     "sha256": "08d3f80fc648ccd0724f96b5137b19dbda13c949264ac98edc8e8b52b5d4d02b"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01693",
+   "unit": "bertioga",
+   "short": "Lei 1693/2025",
+   "title": "Lei nº 1.693, de 3 de julho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7423",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 4,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7423/lei-1693-2025.pdf",
+     "sha256": "19e3771b3fbe1eabfcf6b58f508f0d7520e7672b444052c8898100eea3eb91e7"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01692",
+   "unit": "bertioga",
+   "short": "Lei 1692/2025",
+   "title": "Lei nº 1.692, de 3 de julho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7422",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 4,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7422/lei-1692-2025.pdf",
+     "sha256": "dee863a276d2c1748396232249d0898d9b5e3481dfc4835f5ffc67ed5a720777"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01691",
+   "unit": "bertioga",
+   "short": "Lei 1691/2025",
+   "title": "Lei nº 1.691, de 3 de julho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7421",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 8,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7421/lei-1691-2025.pdf",
+     "sha256": "cdf6c11ebd8a1943ea0f076f30a22c3f9a9c1b0e6320e7ac90bc9267907c5602"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01690",
+   "unit": "bertioga",
+   "short": "Lei 1690/2025",
+   "title": "Lei nº 1.690, de 30 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7420",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 8,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7420/lei-1690-2025.pdf",
+     "sha256": "9c731dfef1aa512ef6581edde519b83fc551e7b6ae9a974dc881de6657ddadd3"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01689",
+   "unit": "bertioga",
+   "short": "Lei 1689/2025",
+   "title": "Lei nº 1.689, de 26 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7419",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 7,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7419/lei-1689-2025.pdf",
+     "sha256": "49950de24da792b0a51ff370b932e9f690fca87d8ac8b169cbca7361f1352eed"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01688",
+   "unit": "bertioga",
+   "short": "Lei 1688/2025",
+   "title": "Lei nº 1.688, de 26 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7418",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 7,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7418/lei-1688-2025.pdf",
+     "sha256": "4e39770b7037b89cdee87408337e9d631f0c825534ebe126ef4fbe487bcddca0"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01685",
+   "unit": "bertioga",
+   "short": "Lei 1685/2025",
+   "title": "Lei nº 1.685, de 25 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7405",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 7,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7405/lei-1685-2025.pdf",
+     "sha256": "8c10ef42bb9126c0076ff3630fbffc423d0d1320d08f6ba86b904d57620347fe"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lc-2025-00202",
+   "unit": "bertioga",
+   "short": "LC 202/2025",
+   "title": "Lei Complementar nº 202, de 25 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7460",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 9,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7460/lc-0202-2025.pdf",
+     "sha256": "19960bebb0082d938bcdbc35c044b5a6bfc9a6c57c33137a792a84e20fb367e4"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01684",
+   "unit": "bertioga",
+   "short": "Lei 1684/2025",
+   "title": "Lei nº 1.684, de 12 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7404",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 10,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7404/lei-1684-2025.pdf",
+     "sha256": "ac05ba3eb74387bafa75aec887d4037e95e4b04483e862ef28625a6e3df4e571"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01683",
+   "unit": "bertioga",
+   "short": "Lei 1683/2025",
+   "title": "Lei nº 1.683, de 12 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7403",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 7,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7403/lei-1683-2025.pdf",
+     "sha256": "51d3e5e86489be868d71ce25441475361dacea0016435729e316bb6fc7ff98b4"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01682",
+   "unit": "bertioga",
+   "short": "Lei 1682/2025",
+   "title": "Lei nº 1.682, de 12 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7402",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 6,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7402/lei-1682-2025.pdf",
+     "sha256": "203adc0bb4210597c208442089fe729fa19a2cde51b6bf1109a3d43ec19e21ae"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01681",
+   "unit": "bertioga",
+   "short": "Lei 1681/2025",
+   "title": "Lei nº 1.681, de 12 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7401",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 7,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7401/lei-1681-2025.pdf",
+     "sha256": "969f89bb88655475f47eef58d13699b2aebc760d20a7d6cdcf8f28f2dda85af4"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01680",
+   "unit": "bertioga",
+   "short": "Lei 1680/2025",
+   "title": "Lei nº 1.680, de 12 de junho de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7400",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 4,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7400/lei-1680-2025.pdf",
+     "sha256": "dede4e4596a6afa0bad0c6b09732bc914ca4090e2eeac77297a38279cfb6bdb2"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lc-2025-00201",
+   "unit": "bertioga",
+   "short": "LC 201/2025",
+   "title": "Lei Complementar nº 201, de 30 de maio de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7361",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 21,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7361/lc-0201-2025.pdf",
+     "sha256": "e8a85a1f45315fd1f70494b11c56c61f7e450ce6465200dcbeef741f6c020389"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01678",
+   "unit": "bertioga",
+   "short": "Lei 1678/2025",
+   "title": "Lei nº 1.678, de 26 de maio de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7395",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 7,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7395/lei-1678-2025.pdf",
+     "sha256": "aa575823bb0dd3f0a474a2229c57e38199ed97071dd964ae52aa860954740351"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01677",
+   "unit": "bertioga",
+   "short": "Lei 1677/2025",
+   "title": "Lei nº 1.677, de 20 de maio de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7358",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 3,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7358/lei-1677-2025.pdf",
+     "sha256": "4b49cbb660e28559bce6a070211adda69c066d2cec371e9ee6a7b3eba9d36382"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01676",
+   "unit": "bertioga",
+   "short": "Lei 1676/2025",
+   "title": "Lei nº 1.676, de 20 de maio de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7357",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 5,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7357/lei-1676-2025.pdf",
+     "sha256": "0de5c0471b3d7183faee047dcf067dfc149e777f6365765f208fed24696db92e"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01675",
+   "unit": "bertioga",
+   "short": "Lei 1675/2025",
+   "title": "Lei nº 1.675, de 20 de maio de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7356",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 11,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7356/lei-1675-2025.pdf",
+     "sha256": "49984186dbe8a1c8912e81107b7ffea84da5f868600f0b33dbc6cce3cdc0c8e3"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01674",
+   "unit": "bertioga",
+   "short": "Lei 1674/2025",
+   "title": "Lei nº 1.674, de 22 de abril de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7329",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 4,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7329/lei-1674-2025.pdf",
+     "sha256": "0825e6d563dee04a0928dd95b542452dcb14bf623e2490e3d944bec4506fb5cd"
+    }
+   ]
+  },
+  {
+   "slug": "bertioga/lei-2025-01673",
+   "unit": "bertioga",
+   "short": "Lei 1673/2025",
+   "title": "Lei nº 1.673, de 31 de março de 2025",
+   "url": "https://sapl.bertioga.sp.leg.br/norma/7288",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 4,
+     "source_url": "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2025/7288/lei-1673-2025.pdf",
+     "sha256": "af47d824a6256307abe01df326baafa1f2b5a75f7c1059fe182ddd7851fb6b32"
+    }
+   ]
+  },
+  {
+   "slug": "sao-joao-da-boa-vista/lei-2026-05625",
+   "unit": "sao-joao-da-boa-vista",
+   "short": "Lei 5625/2026",
+   "title": "Lei nº 5.625, de 22 de abril de 2026",
+   "url": "https://sapl.saojoaodaboavista.sp.leg.br/norma/12064",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 16,
+     "source_url": "https://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/normajuridica/2026/12064/lei.5625.pdf",
+     "sha256": "c643c43a099c1c8d9d28687017704d3f9b3bb10266509fe2e604353aed80148d"
+    }
+   ]
+  }
+ ]
+}
