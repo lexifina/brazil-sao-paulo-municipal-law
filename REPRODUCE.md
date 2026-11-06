@@ -8,6 +8,9 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | --- | --- | --- | --- |
 | Câmara Municipal de São João da Boa Vista, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saojoaodaboavista.sp.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de São João da Boa Vista, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saojoaodaboavista.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Bertioga, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.bertioga.sp.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Bertioga, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.bertioga.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Mococa, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.mococa.sp.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Mococa, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.mococa.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Porto Feliz, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.portofeliz.sp.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Porto Feliz, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.portofeliz.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Registro, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.registro.sp.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Registro, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.registro.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -53,21 +56,101 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `bertioga/lei-2025-01675` | Lei nº 1.675, de 20 de maio de 2025 | 1 | 2025-05-23 to 2025-05-23 |
 | `bertioga/lei-2025-01674` | Lei nº 1.674, de 22 de abril de 2025 | 1 | 2025-04-25 to 2025-04-25 |
 | `bertioga/lei-2025-01673` | Lei nº 1.673, de 31 de março de 2025 | 1 | 2025-04-04 to 2025-04-04 |
+| `mococa/lei-2026-05506` | Lei nº 5.506, de 3 de junho de 2026 | 1 | 2026-06-03 to 2026-06-03 |
+| `mococa/lc-2026-00687` | Lei Complementar nº 687, de 27 de maio de 2026 | 1 | 2026-05-27 to 2026-05-27 |
+| `porto-feliz/lc-2026-00267` | Lei Complementar nº 267, de 28 de agosto de 2026 | 1 | 2026-08-28 to 2026-08-28 |
+| `porto-feliz/lei-2026-06053` | Lei nº 6.053, de 10 de agosto de 2026 | 1 | 2026-08-10 to 2026-08-10 |
+| `porto-feliz/lei-2026-06052` | Lei nº 6.052, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06051` | Lei nº 6.051, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06050` | Lei nº 6.050, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06049` | Lei nº 6.049, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06048` | Lei nº 6.048, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06046` | Lei nº 6.046, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06045` | Lei nº 6.045, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06044` | Lei nº 6.044, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06043` | Lei nº 6.043, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06042` | Lei nº 6.042, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06041` | Lei nº 6.041, de 27 de julho de 2026 | 1 | 2026-07-27 to 2026-07-27 |
+| `porto-feliz/lei-2026-06040` | Lei nº 6.040, de 17 de junho de 2026 | 1 | 2026-06-17 to 2026-06-17 |
+| `porto-feliz/lei-2026-06039` | Lei nº 6.039, de 17 de junho de 2026 | 1 | 2026-06-17 to 2026-06-17 |
+| `porto-feliz/lei-2026-06038` | Lei nº 6.038, de 17 de junho de 2026 | 1 | 2026-06-17 to 2026-06-17 |
+| `porto-feliz/lei-2026-06037` | Lei nº 6.037, de 17 de junho de 2026 | 1 | 2026-06-17 to 2026-06-17 |
+| `porto-feliz/lei-2026-06035` | Lei nº 6.035, de 22 de maio de 2026 | 1 | 2026-05-22 to 2026-05-22 |
+| `porto-feliz/lei-2026-06034` | Lei nº 6.034, de 22 de maio de 2026 | 1 | 2026-05-22 to 2026-05-22 |
+| `porto-feliz/lei-2026-06032` | Lei nº 6.032, de 22 de maio de 2026 | 1 | 2026-05-22 to 2026-05-22 |
+| `porto-feliz/lei-2026-06031` | Lei nº 6.031, de 17 de abril de 2026 | 1 | 2026-04-17 to 2026-04-17 |
+| `porto-feliz/lei-2026-06030` | Lei nº 6.030, de 17 de abril de 2026 | 1 | 2026-04-17 to 2026-04-17 |
+| `porto-feliz/lei-2026-06028` | Lei nº 6.028, de 17 de abril de 2026 | 1 | 2026-04-17 to 2026-04-17 |
+| `porto-feliz/lei-2026-06027` | Lei nº 6.027, de 17 de abril de 2026 | 1 | 2026-04-17 to 2026-04-17 |
+| `porto-feliz/lei-2026-06026` | Lei nº 6.026, de 17 de abril de 2026 | 1 | 2026-04-17 to 2026-04-17 |
+| `porto-feliz/lei-2026-06023` | Lei nº 6.023, de 26 de março de 2026 | 1 | 2026-03-26 to 2026-03-26 |
+| `porto-feliz/lei-2026-06022` | Lei nº 6.022, de 27 de fevereiro de 2026 | 1 | 2026-02-27 to 2026-02-27 |
+| `porto-feliz/lei-2025-06021` | Lei nº 6.021, de 18 de dezembro de 2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `porto-feliz/lei-2025-06020` | Lei nº 6.020, de 18 de dezembro de 2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `porto-feliz/lei-2025-06019` | Lei nº 6.019, de 18 de dezembro de 2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `porto-feliz/lei-2025-06018` | Lei nº 6.018, de 18 de dezembro de 2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `porto-feliz/lei-2025-06014` | Lei nº 6.014, de 18 de dezembro de 2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `porto-feliz/lei-2025-06013` | Lei nº 6.013, de 18 de dezembro de 2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `porto-feliz/lc-2025-00262` | Lei Complementar nº 262, de 18 de dezembro de 2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `porto-feliz/lc-2025-00261` | Lei Complementar nº 261, de 18 de dezembro de 2025 | 1 | 2025-12-18 to 2025-12-18 |
+| `registro/lei-2026-02521` | Lei nº 2.521, de 2 de outubro de 2026 | 1 | 2026-10-02 to 2026-10-02 |
+| `registro/lei-2026-02520` | Lei nº 2.520, de 30 de setembro de 2026 | 1 | 2026-09-30 to 2026-09-30 |
+| `registro/lei-2026-02519` | Lei nº 2.519, de 30 de setembro de 2026 | 1 | 2026-09-30 to 2026-09-30 |
+| `registro/lei-2026-02518` | Lei nº 2.518, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `registro/lei-2026-02517` | Lei nº 2.517, de 15 de setembro de 2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `registro/lei-2026-02516` | Lei nº 2.516, de 15 de setembro de 2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `registro/lei-2026-02515` | Lei nº 2.515, de 11 de setembro de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `registro/lei-2026-02514` | Lei nº 2.514, de 11 de setembro de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `registro/lei-2026-02513` | Lei nº 2.513, de 11 de setembro de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `registro/lei-2026-02512` | Lei nº 2.512, de 9 de setembro de 2026 | 1 | 2026-09-09 to 2026-09-09 |
+| `registro/lei-2026-02511` | Lei nº 2.511, de 9 de setembro de 2026 | 1 | 2026-09-09 to 2026-09-09 |
+| `registro/lei-2026-02509` | Lei nº 2.509, de 25 de agosto de 2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `registro/lei-2026-02508` | Lei nº 2.508, de 25 de agosto de 2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `registro/lei-2026-02507` | Lei nº 2.507, de 25 de agosto de 2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `registro/lei-2026-02506` | Lei nº 2.506, de 25 de agosto de 2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `registro/lei-2026-02505` | Lei nº 2.505, de 25 de agosto de 2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `registro/lei-2026-02504` | Lei nº 2.504, de 25 de agosto de 2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `registro/lei-2026-02497` | Lei nº 2.497, de 24 de junho de 2026 | 1 | 2026-06-24 to 2026-06-24 |
+| `registro/lei-2026-02496` | Lei nº 2.496, de 24 de junho de 2026 | 1 | 2026-06-24 to 2026-06-24 |
+| `registro/lei-2026-02495` | Lei nº 2.495, de 17 de junho de 2026 | 1 | 2026-06-17 to 2026-06-17 |
+| `registro/lei-2026-02503` | Lei nº 2.503, de 6 de junho de 2026 | 1 | 2026-06-06 to 2026-06-06 |
+| `registro/lei-2026-02502` | Lei nº 2.502, de 6 de junho de 2026 | 1 | 2026-06-06 to 2026-06-06 |
+| `registro/lei-2026-02501` | Lei nº 2.501, de 6 de junho de 2026 | 1 | 2026-06-06 to 2026-06-06 |
+| `registro/lei-2026-02500` | Lei nº 2.500, de 6 de junho de 2026 | 1 | 2026-06-06 to 2026-06-06 |
+| `registro/lei-2026-02499` | Lei nº 2.499, de 6 de junho de 2026 | 1 | 2026-06-06 to 2026-06-06 |
+| `registro/lei-2026-02498` | Lei nº 2.498, de 6 de junho de 2026 | 1 | 2026-06-06 to 2026-06-06 |
+| `registro/lei-2026-02493` | Lei nº 2.493, de 3 de junho de 2026 | 1 | 2026-06-03 to 2026-06-03 |
+| `registro/lei-2026-02492` | Lei nº 2.492, de 26 de maio de 2026 | 1 | 2026-05-26 to 2026-05-26 |
+| `registro/lei-2026-02491` | Lei nº 2.491, de 20 de maio de 2026 | 1 | 2026-05-20 to 2026-05-20 |
+| `registro/lei-2026-02490` | Lei nº 2.490, de 19 de maio de 2026 | 1 | 2026-05-19 to 2026-05-19 |
+| `registro/lei-2026-02489` | Lei nº 2.489, de 19 de maio de 2026 | 1 | 2026-05-19 to 2026-05-19 |
+| `registro/lei-2026-02488` | Lei nº 2.488, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `registro/lei-2026-02487` | Lei nº 2.487, de 12 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `registro/lei-2026-02486` | Lei nº 2.486, de 6 de maio de 2026 | 1 | 2026-05-06 to 2026-05-06 |
+| `registro/lei-2026-02485` | Lei nº 2.485, de 6 de maio de 2026 | 1 | 2026-05-06 to 2026-05-06 |
+| `registro/lei-2026-02484` | Lei nº 2.484, de 6 de maio de 2026 | 1 | 2026-05-06 to 2026-05-06 |
+| `registro/lei-2026-02483` | Lei nº 2.483, de 30 de abril de 2026 | 1 | 2026-04-30 to 2026-04-30 |
+| `registro/lei-2026-02481` | Lei nº 2.481, de 30 de abril de 2026 | 1 | 2026-04-30 to 2026-04-30 |
+| `registro/lei-2026-02480` | Lei nº 2.480, de 24 de abril de 2026 | 1 | 2026-04-24 to 2026-04-24 |
+| `registro/lei-2026-02479` | Lei nº 2.479, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `registro/lei-2026-02478` | Lei nº 2.478, de 14 de abril de 2026 | 1 | 2026-04-14 to 2026-04-14 |
+| `registro/lei-2026-02475` | Lei nº 2.475, de 9 de abril de 2026 | 1 | 2026-04-09 to 2026-04-09 |
+| `registro/lei-2026-02474` | Lei nº 2.474, de 27 de março de 2026 | 1 | 2026-03-27 to 2026-03-27 |
 | `sao-joao-da-boa-vista/lei-2026-05625` | Lei nº 5.625, de 22 de abril de 2026 | 1 | 2026-04-24 to 2026-04-24 |
 
-The build made 39 commits:
+The build made 119 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 39 | first version of an act |
+| 119 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 39 laws in the record.
-- 78 tags.
+- 119 laws in the record.
+- 238 tags.
 
 ## Dates
 
@@ -79,13 +162,13 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ca73122986954a7407f9a0e49b8ba30f2e513aabb7bb10b99f77ba1c1f0db70d` (269500 bytes).
+- Corpus: sha256 `0904de3cb84d28b30c30f483357de7d9842df3ff43d8a4770dfc627e01afb162` (665263 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-39 versions of 39 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

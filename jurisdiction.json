@@ -8,6 +8,9 @@
   "build": "built: the municipal law of São Paulo from the Câmaras Municipais' SAPL",
   "units": [
     "sao-joao-da-boa-vista",
-    "bertioga"
+    "bertioga",
+    "mococa",
+    "porto-feliz",
+    "registro"
   ]
 }

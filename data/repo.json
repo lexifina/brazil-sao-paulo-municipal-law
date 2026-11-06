@@ -20,6 +20,30 @@
    "code": "BR-SP-BERTIOGA",
    "official_code": "3506359",
    "source": "sapl.bertioga.sp.leg.br"
+  },
+  {
+   "id": "mococa",
+   "folder": "mococa",
+   "name": "Mococa",
+   "code": "BR-SP-MOCOCA",
+   "official_code": "3530508",
+   "source": "sapl.mococa.sp.leg.br"
+  },
+  {
+   "id": "porto-feliz",
+   "folder": "porto-feliz",
+   "name": "Porto Feliz",
+   "code": "BR-SP-PORTO-FELIZ",
+   "official_code": "3540606",
+   "source": "sapl.portofeliz.sp.leg.br"
+  },
+  {
+   "id": "registro",
+   "folder": "registro",
+   "name": "Registro",
+   "code": "BR-SP-REGISTRO",
+   "official_code": "3542602",
+   "source": "sapl.registro.sp.leg.br"
   }
  ]
 }

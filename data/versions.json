@@ -572,6 +572,1206 @@
    ]
   },
   {
+   "slug": "mococa/lei-2026-05506",
+   "unit": "mococa",
+   "short": "Lei 5506/2026",
+   "title": "Lei nº 5.506, de 3 de junho de 2026",
+   "url": "https://sapl.mococa.sp.leg.br/norma/15652",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 6,
+     "source_url": "https://sapl.mococa.sp.leg.br/media/sapl/public/normajuridica/2026/15652/lei_no_5.506-2026.pdf",
+     "sha256": "75abbe82880ec723a62d63448a0e3b65b70754b1d5da693ed5b62e047f191070"
+    }
+   ]
+  },
+  {
+   "slug": "mococa/lc-2026-00687",
+   "unit": "mococa",
+   "short": "LC 687/2026",
+   "title": "Lei Complementar nº 687, de 27 de maio de 2026",
+   "url": "https://sapl.mococa.sp.leg.br/norma/15650",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 7,
+     "source_url": "https://sapl.mococa.sp.leg.br/media/sapl/public/normajuridica/2026/15650/lei_complementar_no_687-2026.pdf",
+     "sha256": "4af6011e0056f877498fcb9f65409f24c2ad169359597689ddfa90757a9970dd"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lc-2026-00267",
+   "unit": "porto-feliz",
+   "short": "LC 267/2026",
+   "title": "Lei Complementar nº 267, de 28 de agosto de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9496",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 5,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9496/lc_267_-_dispoe_sobre_alteracao_da_lc_230.2021_-_regime_de_previdencia_complementar.pdf",
+     "sha256": "2a67186d0ce85d9fc19fe37241e8870f61230e687b65ca815786e966ab1f3105"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06053",
+   "unit": "porto-feliz",
+   "short": "Lei 6053/2026",
+   "title": "Lei nº 6.053, de 10 de agosto de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9494",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 6,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9494/lei_no_6053_-_autoriza_suplementacao_despesas_social_-_fonte_5_-_emendas_repasse_asilo_e_apae.pdf",
+     "sha256": "fc90172c822843778badf6e44454f61c379b461444fe5b83b7d23287eb692996"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06052",
+   "unit": "porto-feliz",
+   "short": "Lei 6052/2026",
+   "title": "Lei nº 6.052, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9493",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 5,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9493/lei_no_6052_-_autoriza_o_poder_executivo_a_realizar_o_pagamento_retroativo_de_vantagens_funcionais_aos_servidores_publicos_do_municipio_de_porto_feliz_-_pmpf_saae_e_portoprev.pdf",
+     "sha256": "bcc67ee56aa1c113848a7be1218db9ffc702bc50273ad3c2b5501355c73f031f"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06051",
+   "unit": "porto-feliz",
+   "short": "Lei 6051/2026",
+   "title": "Lei nº 6.051, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9492",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 6,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9492/lei_no_6051_-_dispoe_sobre_a_autorizacao_para_abertura_de_credito_adicional_suplementar_e_especial_no_orcamento_vigente_conforme_especifica_e_da_outras_providencias.pdf",
+     "sha256": "e8d5baef75fece2a320a05aad8810589b4e8278289664f83e17a541eefda1e11"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06050",
+   "unit": "porto-feliz",
+   "short": "Lei 6050/2026",
+   "title": "Lei nº 6.050, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9491",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 3,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9491/lei_no_6050_-_institui_e_inclui_no_calendario_oficial_do_municipio_de_porto_feliz_a_semana_do_agricultor_a_ser_celebrada_anualmente_na_ultima_semana_de_julho.pdf",
+     "sha256": "229509086a12d1d666ff658d116f5697340863a5db9daa834deae01fd0df8818"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06049",
+   "unit": "porto-feliz",
+   "short": "Lei 6049/2026",
+   "title": "Lei nº 6.049, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9490",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 3,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9490/lei_no_6049_-_institui_e_inclui_no_calendario_oficial_do_municipio_de_porto_feliz_o_dia_municipal_da_conscientizacao_da_osteogenese_imperfeita_e_da_outras_providencias.pdf",
+     "sha256": "44044264362ce2e265c33d677ddd16a905364a8b00e9b72700ffe243977a72ab"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06048",
+   "unit": "porto-feliz",
+   "short": "Lei 6048/2026",
+   "title": "Lei nº 6.048, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9489",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 3,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9489/lei_no_6048_-_institui_e_inclui_no_calendario_oficial_do_municipio_de_porto_feliz_dia_municipal_de_conscientizacao_da_lingua_brasileira_de_sinais_-_libras_e_da_outras_providencias.pdf",
+     "sha256": "a6b5bea479c62f1324eb21160db2364212b9591d4c9bfb67da9e242cdb9a9772"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06046",
+   "unit": "porto-feliz",
+   "short": "Lei 6046/2026",
+   "title": "Lei nº 6.046, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9487",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 5,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9487/lei_no_6046_-_dispoe_sobre_implantacao_de_codigo_bidimensional_qr_code_quick_response_code_em_todas_as_placas_de_obras_publicas_municipais_para_leitura_e_fiscalizacao_e_da_outras_providencias.pdf",
+     "sha256": "9fd938c278c3da9b4327f33cb19a7501f575a167a0964f67b001dbdb13400183"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06045",
+   "unit": "porto-feliz",
+   "short": "Lei 6045/2026",
+   "title": "Lei nº 6.045, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9486",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9486/lei_no_6045_-_institui_e_inclui_no_calendario_oficial_de_eventos_do_municipio_de_porto_feliz_o_dia_municipal_dos_desbravadores_e_aventureiros.pdf",
+     "sha256": "b7b19cd3104baaca401399ff7c23ec94a91dd56827ec01b4cf2609062fab0d51"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06044",
+   "unit": "porto-feliz",
+   "short": "Lei 6044/2026",
+   "title": "Lei nº 6.044, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9485",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 3,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9485/lei_no_6044_-_institui_e_inclui_no_calendario_oficial_do_municipio_de_porto_feliz_os_campeonatos_rurais_copa_carlos_maluta_e_copa_caliman_a_serem_realizados_anualmente.pdf",
+     "sha256": "bc57d14466ead2774781bf0fe4f65d427319f1fb93eed19b78ba68ee692c510b"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06043",
+   "unit": "porto-feliz",
+   "short": "Lei 6043/2026",
+   "title": "Lei nº 6.043, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9484",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 3,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9484/lei_no_6043_-_institui_o_maio_roxo_como_o_mes_de_conscientizacao_sobre_as_doencas_inflamatorias_intestinais_dii_no_ambito_do_municipio_de_porto_feliz_e_da_outras_providencias.pdf",
+     "sha256": "72038f580971b26e1f6a13048caaff5db0c871f94bc693e0c38cae450ed185cb"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06042",
+   "unit": "porto-feliz",
+   "short": "Lei 6042/2026",
+   "title": "Lei nº 6.042, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9483",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 3,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9483/lei_no_6042_-_institui_e_inclui_no_calendario_oficial_do_municipio_de_porto_feliz_o_dia_municipal_do_protetor_independente_de_animais_a_ser_comemorado_anualmente_no_dia_04_de_outubro.pdf",
+     "sha256": "d4e46e75555ed58517ee1d107a6fee43514e0ce5e19a86fd3ccfcb1af01258c0"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06041",
+   "unit": "porto-feliz",
+   "short": "Lei 6041/2026",
+   "title": "Lei nº 6.041, de 27 de julho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9482",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 3,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9482/lei_no_6041_-_institui_e_inclui_no_calendario_oficial_do_municipio_de_porto_feliz_o_dia_municipal_da_adocao_protecao_e_bem-estar_dos_animais_a_ser_comemorado_anualmente_no_dia_15_de_dezembro.pdf",
+     "sha256": "f0531c7cf531a02821f4f92e6c2fd1ee96e6ed8a76bb8ed41701ac3517e69a78"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06040",
+   "unit": "porto-feliz",
+   "short": "Lei 6040/2026",
+   "title": "Lei nº 6.040, de 17 de junho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9474",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 7,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9474/lei_no_6040_-_autoriza_o_pagamento_de_valores_retroativos_aos_servidores_do_legislativo_-_covid_-_camara.pdf",
+     "sha256": "47a1f1bba3609132f1bceaaf8031c5cc108f0c739cb1d6bcdd526cb13448d79c"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06039",
+   "unit": "porto-feliz",
+   "short": "Lei 6039/2026",
+   "title": "Lei nº 6.039, de 17 de junho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9473",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 5,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9473/lei_no_6039_-_dispoe_sobre_abertura_de_credito_adicional_suplementar_no_orcamento_de_2026_-_camara.pdf",
+     "sha256": "bf634a1f91689cfa53f12ae9ac010363eb7cfd2d3e6d0c85cf3c8a18001e656e"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06038",
+   "unit": "porto-feliz",
+   "short": "Lei 6038/2026",
+   "title": "Lei nº 6.038, de 17 de junho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9472",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 5,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9472/lei_no_6038_-_da_nova_redacao_a_lei_municipal_n_6035-2026_que_dispoe_sobre_a_autorizacao_para_alienacao_por_doacao_ao_fundo_de_arrendamento_residencial_-_far.pdf",
+     "sha256": "c10cf9a13602ba0f01588728e8443c1934e9eb2e0f6b223cff80109599afa11a"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06037",
+   "unit": "porto-feliz",
+   "short": "Lei 6037/2026",
+   "title": "Lei nº 6.037, de 17 de junho de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9471",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 16,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9471/lei_no_6037_-_institui_a_semana_municipal_do_meio_ambiente_e_a_medalha_moncoeira_ecologica_no_municipio_de_porto_feliz.pdf",
+     "sha256": "0a50048052ce855b5782943ff1b4b68b48bbc24b5a5ad64167c95e4e2d7e1fd0"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06035",
+   "unit": "porto-feliz",
+   "short": "Lei 6035/2026",
+   "title": "Lei nº 6.035, de 22 de maio de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9455",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 7,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9455/lei_no_6035_-_autoriza_alienacao_para_doacao_ao_fundo_de_arrendamento_residencial_-_far.pdf",
+     "sha256": "19bf36492e94afe13ee7b448644c5af9fe8e3c9320c101dcfed4e1f360003db2"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06034",
+   "unit": "porto-feliz",
+   "short": "Lei 6034/2026",
+   "title": "Lei nº 6.034, de 22 de maio de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9454",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 6,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9454/lei_no_6034_-_subvencao_social_-_repasse_estadual_-_apae.pdf",
+     "sha256": "3e32d8e72a96c4649d42ae85e0f55cb2be60b902d7785686d373efd1403f860a"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06032",
+   "unit": "porto-feliz",
+   "short": "Lei 6032/2026",
+   "title": "Lei nº 6.032, de 22 de maio de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9452",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 19,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9452/lei_no_6032_-_novo_conselho_municipal_de_seg._alimentar_e_nutricional_de_porto_feliz.pdf",
+     "sha256": "4a306f8236932af6b9f20b8ebe8f0729ca8444af3e10ed948724c249972a26c0"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06031",
+   "unit": "porto-feliz",
+   "short": "Lei 6031/2026",
+   "title": "Lei nº 6.031, de 17 de abril de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9451",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9451/lei_no_6031_-_altera_a_lei_5983.2025_-_auxilio_saude_servidores_da_camara_2026.pdf",
+     "sha256": "360b5b116222a8229eca293ca3d4d147a4928fa07870c11eb95cf498ea3bd6dc"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06030",
+   "unit": "porto-feliz",
+   "short": "Lei 6030/2026",
+   "title": "Lei nº 6.030, de 17 de abril de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9450",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 5,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9450/lei_no_6030_-_dispoe_sobre_o_auxilio_alimentacao_servidores_da_camara_2026.pdf",
+     "sha256": "ad66d0c3ae58918904559486b77e22901a8ccc0443556e1815d4c9c9ee34cdb8"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06028",
+   "unit": "porto-feliz",
+   "short": "Lei 6028/2026",
+   "title": "Lei nº 6.028, de 17 de abril de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9448",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9448/lei_no_6028_-_denominacao_de_via_publica_-_rua_margarida_manfrinati_brugnaro_-_vereador_luis_antonio_gutierre_ruiz.pdf",
+     "sha256": "318e6bd9c5506bfbca6a9a6f8e970185536e1ac3b6c76cee4773bf72403ff464"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06027",
+   "unit": "porto-feliz",
+   "short": "Lei 6027/2026",
+   "title": "Lei nº 6.027, de 17 de abril de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9447",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9447/lei_no_6027_-_denominacao_de_via_publica_-_rua_jose_brugnaro_-_vereador_luis_antonio_gutierre_ruiz.pdf",
+     "sha256": "854a081fc02274bb808b15b248e8720d2743032c4c90e05f344a1bce2d4c8c21"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06026",
+   "unit": "porto-feliz",
+   "short": "Lei 6026/2026",
+   "title": "Lei nº 6.026, de 17 de abril de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9446",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 3,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9446/lei_no_6026_-_institui_no_calendario_do_municipio_o_dia_do_imigrante_italiano_a_ser_comemorado_no_dia_21_de_fevereiro_-_vereador_adilson_de_jesus_casagrande.pdf",
+     "sha256": "4822cf4c9a46b4d0d2a61d9ab1e4fe52b4ab55740e8055d7a2cddbd5578b343b"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06023",
+   "unit": "porto-feliz",
+   "short": "Lei 6023/2026",
+   "title": "Lei nº 6.023, de 26 de março de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9440",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9440/lei_no_6023_-_altera_lei_5946_-_auxilio_alimentacao_prefeitura_saae_e_portoprev_2026.pdf",
+     "sha256": "e55fcd4c885e4c7cd3abbf3e3298dda4c93e2b2aa90bbedf2a9e87b6f4ca1cdd"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2026-06022",
+   "unit": "porto-feliz",
+   "short": "Lei 6022/2026",
+   "title": "Lei nº 6.022, de 27 de fevereiro de 2026",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9436",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2026/9436/lei_no_6022_-_altera_lei_5977_-_gratificacoes_da_camara_municipal.pdf",
+     "sha256": "274f535797d68b54c01cbf4ba5e298a401c473a919deb4e46f2668815d433793"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2025-06021",
+   "unit": "porto-feliz",
+   "short": "Lei 6021/2025",
+   "title": "Lei nº 6.021, de 18 de dezembro de 2025",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9435",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2025/9435/lei_no_6021_-_dispoe_sobre_denominacao_de_vias_publicas_do_loteamento_portal_ville_cambui.pdf",
+     "sha256": "76f48af9575336af21c84fa159de863a237b0b7e4506ee02b88991f8210880fc"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2025-06020",
+   "unit": "porto-feliz",
+   "short": "Lei 6020/2025",
+   "title": "Lei nº 6.020, de 18 de dezembro de 2025",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9434",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 9,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2025/9434/lei_no_6020_-_altera_a_lei_no_4.490_de_2007_que_dispoe_sobre_estagio_na_administracao_publica_municipal_direta_e_indireta.pdf",
+     "sha256": "ced048908f022762bfeaced8b1d44be6f11513024a0e0eba6abba7fc1c406dc6"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2025-06019",
+   "unit": "porto-feliz",
+   "short": "Lei 6019/2025",
+   "title": "Lei nº 6.019, de 18 de dezembro de 2025",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9433",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 3,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2025/9433/lei_no_6019_-_prorroga_a_vigencia_do_plano_municipal_de_educacao_aprovado_por_meio_da_lei_municipal_no_5400.2015.pdf",
+     "sha256": "1c6744fe2453bc0d554977279432deac799349748840809799259d04a71fcc7d"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2025-06018",
+   "unit": "porto-feliz",
+   "short": "Lei 6018/2025",
+   "title": "Lei nº 6.018, de 18 de dezembro de 2025",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9432",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2025/9432/lei_no_6018_-_denominacao_de_via_publica_-_estrada_do_mumu_-_vereador_odelio_leite.pdf",
+     "sha256": "b984595f4f857aba56e3ae0a8f53492883765f4d92c7cf8c3651e3c98d782b86"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2025-06014",
+   "unit": "porto-feliz",
+   "short": "Lei 6014/2025",
+   "title": "Lei nº 6.014, de 18 de dezembro de 2025",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9428",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 5,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2025/9428/lei_no_6014_-_abertura_de_credito_adicional_portoprev.pdf",
+     "sha256": "70db7f725760621ab8db7ad453e255298d48257997b2eb0480e1ae168e068521"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lei-2025-06013",
+   "unit": "porto-feliz",
+   "short": "Lei 6013/2025",
+   "title": "Lei nº 6.013, de 18 de dezembro de 2025",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9427",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2025/9427/lei_no_6013_-_institui_e_inclui_no_calendario_oficial_do_municipio_de_porto-feliz_o_evento_adora_porto_-_vereadora_roselene_maria_de_souza_dos_santos.pdf",
+     "sha256": "bde5dab85875686f65590dbb49a384b2e0ca04ec38b5c4af533636e658bc753c"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lc-2025-00262",
+   "unit": "porto-feliz",
+   "short": "LC 262/2025",
+   "title": "Lei Complementar nº 262, de 18 de dezembro de 2025",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9425",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 5,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2025/9425/lc_262_-_alteracoes_dos_artigos_3o_e_4o_da_lei_complementar_no_260_de_23_de_outubro_de_2025.pdf",
+     "sha256": "77840a17601c9bbd027ba03cc6dd1802606ec936b4084cc26f0f843ce67753b6"
+    }
+   ]
+  },
+  {
+   "slug": "porto-feliz/lc-2025-00261",
+   "unit": "porto-feliz",
+   "short": "LC 261/2025",
+   "title": "Lei Complementar nº 261, de 18 de dezembro de 2025",
+   "url": "https://sapl.portofeliz.sp.leg.br/norma/9424",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sapl.portofeliz.sp.leg.br/media/sapl/public/normajuridica/2025/9424/lc_261_-_criacao_de_vagas_para_cargos_de_provimento_efetivo_e_para_funcoes_gratificadas_-secretaria_municipal_de_educacao.pdf",
+     "sha256": "060caacdd401f9f8963387dfdb8f1b479e9021cd8e8b41acfe4a66994198862c"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02521",
+   "unit": "registro",
+   "short": "Lei 2521/2026",
+   "title": "Lei nº 2.521, de 2 de outubro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6267",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 7,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6267/lei_2521-26_descida_de_patins_e_skate_av_jonas_banks__promulgada_pela_cmr_ad.pdf",
+     "sha256": "e97082aae18a9a61b83280d5b2680de627598d51c7c013160e4d78184952b157"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02520",
+   "unit": "registro",
+   "short": "Lei 2520/2026",
+   "title": "Lei nº 2.520, de 30 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6275",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6275/lei_2520-26.pdf",
+     "sha256": "7cf5f89fb6b0283ba687b52b43e5a9f0d36c41bde712e60c4c91aa174ab7a057"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02519",
+   "unit": "registro",
+   "short": "Lei 2519/2026",
+   "title": "Lei nº 2.519, de 30 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6274",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6274/lei_2519-26.pdf",
+     "sha256": "5289d3385140ed19b067ad9d3f8beea26646439a3853609fcd46a0cbec3282e6"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02518",
+   "unit": "registro",
+   "short": "Lei 2518/2026",
+   "title": "Lei nº 2.518, de 24 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6273",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 8,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6273/lei_2518-26.pdf",
+     "sha256": "8cd38657db17185f2ba06aa15f736226e9691ad35d45ff6f9a7b08d94caacddc"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02517",
+   "unit": "registro",
+   "short": "Lei 2517/2026",
+   "title": "Lei nº 2.517, de 15 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6272",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 7,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6272/lei_2517-26.pdf",
+     "sha256": "d8d56d65e4531563191dc86d8889de1fa925061ab506514e6a0d8d853b6edcb8"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02516",
+   "unit": "registro",
+   "short": "Lei 2516/2026",
+   "title": "Lei nº 2.516, de 15 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6271",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 9,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6271/lei_2516-26.pdf",
+     "sha256": "e687585d238b2a0749121e44252046da8410ee224a16a4b3db125757d073ec57"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02515",
+   "unit": "registro",
+   "short": "Lei 2515/2026",
+   "title": "Lei nº 2.515, de 11 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6270",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6270/lei_2515-26_1.pdf",
+     "sha256": "a080d501dc33dd467855b3514f50a4b514d71cc67dd433cd5166f87c81c52c8f"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02514",
+   "unit": "registro",
+   "short": "Lei 2514/2026",
+   "title": "Lei nº 2.514, de 11 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6269",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6269/lei_2514-26.pdf",
+     "sha256": "f7fc5d0b1c42f52aabcf97b3848d652e408195cc38a291b58fe5a59bcab5df90"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02513",
+   "unit": "registro",
+   "short": "Lei 2513/2026",
+   "title": "Lei nº 2.513, de 11 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6268",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6268/lei_2513-26_1.pdf",
+     "sha256": "48ed2835c3f7a27480b47dd1483e3d65d7ffd4d0caa369d3768741d5c3fa6007"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02512",
+   "unit": "registro",
+   "short": "Lei 2512/2026",
+   "title": "Lei nº 2.512, de 9 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6262",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6262/lei_2512-26.pdf",
+     "sha256": "29e11a1d35d16d6e08b425a69659683c12debefb94c33484298c69c468297f35"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02511",
+   "unit": "registro",
+   "short": "Lei 2511/2026",
+   "title": "Lei nº 2.511, de 9 de setembro de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6261",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6261/lei_2511-26.pdf",
+     "sha256": "6feddb4fcc8c18dbce39931d512f074f6235e37fa0ce061ace53e63355342793"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02509",
+   "unit": "registro",
+   "short": "Lei 2509/2026",
+   "title": "Lei nº 2.509, de 25 de agosto de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6247",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6247/lei_2509-26.pdf",
+     "sha256": "11eb82cab6ceae9635e86ed9e88ab3a2729fa387812de6cc9e8d99f84e120f3d"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02508",
+   "unit": "registro",
+   "short": "Lei 2508/2026",
+   "title": "Lei nº 2.508, de 25 de agosto de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6260",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6260/lei_2508-26.pdf",
+     "sha256": "b623f5f5c8c7b4b13c8489e5d95684d483a3736441f58628e21768f4f380b464"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02507",
+   "unit": "registro",
+   "short": "Lei 2507/2026",
+   "title": "Lei nº 2.507, de 25 de agosto de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6259",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6259/lei_2507-26.pdf",
+     "sha256": "dc80390785c34c24616f6fd6fec22553925b432c918a059aa6321507993a4886"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02506",
+   "unit": "registro",
+   "short": "Lei 2506/2026",
+   "title": "Lei nº 2.506, de 25 de agosto de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6258",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6258/lei_2506-26.pdf",
+     "sha256": "7358c7b98de953e459b90e3988467a09daad4a9979b9553f0aa3162dbe0d8f2b"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02505",
+   "unit": "registro",
+   "short": "Lei 2505/2026",
+   "title": "Lei nº 2.505, de 25 de agosto de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6257",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6257/lei_2505-26.pdf",
+     "sha256": "45ed50b1d44f7d01f51d09b5a773a01ecd673306b8883575da51583627bc3ed9"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02504",
+   "unit": "registro",
+   "short": "Lei 2504/2026",
+   "title": "Lei nº 2.504, de 25 de agosto de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6256",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 6,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6256/lei_2504-26.pdf",
+     "sha256": "376df18e7192f9339081d9c1c154a7750d2de1d602c90d002e079fd13a041415"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02497",
+   "unit": "registro",
+   "short": "Lei 2497/2026",
+   "title": "Lei nº 2.497, de 24 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6248",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6248/lei_2497-26.pdf",
+     "sha256": "90f10676b38874abd90af8475121b7c214f404345605356bed236af4f03b6ff7"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02496",
+   "unit": "registro",
+   "short": "Lei 2496/2026",
+   "title": "Lei nº 2.496, de 24 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6249",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 13,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6249/lei_2496-26.pdf",
+     "sha256": "0521f55fa593e63fd908a6cd61c400c9bc5d86dac1d7a67409440dc31f1a9070"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02495",
+   "unit": "registro",
+   "short": "Lei 2495/2026",
+   "title": "Lei nº 2.495, de 17 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6110",
+   "versions": [
+    {
+     "from": "2026-06-17",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6110/lei_2495-26.pdf",
+     "sha256": "47ae31b2f3b6e98ff4f1062280e8ab30dda51ec45a20ce1d535bb19546e772ee"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02503",
+   "unit": "registro",
+   "short": "Lei 2503/2026",
+   "title": "Lei nº 2.503, de 6 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6255",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6255/lei_2503-26.pdf",
+     "sha256": "0eea6c3abffce610ed845ddbbd6dd5a313dd2ee5990ece58a430d1b261ef3eca"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02502",
+   "unit": "registro",
+   "short": "Lei 2502/2026",
+   "title": "Lei nº 2.502, de 6 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6254",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6254/lei_2502-26.pdf",
+     "sha256": "64849203867dd3679f8fcb903e7e0b13a5923ce036545f28d7025e55f19fc405"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02501",
+   "unit": "registro",
+   "short": "Lei 2501/2026",
+   "title": "Lei nº 2.501, de 6 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6253",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6253/lei_2501-26.pdf",
+     "sha256": "4bd359365068098e3f525dfac594f044845161b5cfd654d9dcd435e2a719abf5"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02500",
+   "unit": "registro",
+   "short": "Lei 2500/2026",
+   "title": "Lei nº 2.500, de 6 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6252",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6252/lei_2500-26.pdf",
+     "sha256": "01b515291bdbbfa52ff1efc28b795786f57f53cb12ce31d84c9a7a865da2d5da"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02499",
+   "unit": "registro",
+   "short": "Lei 2499/2026",
+   "title": "Lei nº 2.499, de 6 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6251",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6251/lei_2499-26.pdf",
+     "sha256": "d5fa4b813c69f3bb513f978c5d1383239702e1e25c6ccbc935b1f49260c35312"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02498",
+   "unit": "registro",
+   "short": "Lei 2498/2026",
+   "title": "Lei nº 2.498, de 6 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6250",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 12,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6250/lei_2498-26.pdf",
+     "sha256": "b8605504f4034a87766b60ba2520f1d586c4ef6cf435a50c641c837e964076ac"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02493",
+   "unit": "registro",
+   "short": "Lei 2493/2026",
+   "title": "Lei nº 2.493, de 3 de junho de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6108",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6108/lei_2493-26.pdf",
+     "sha256": "5f2dc8f4fca9b8098a40967b25af874a6c3b618d2c74ced99e8891e8cb154dfb"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02492",
+   "unit": "registro",
+   "short": "Lei 2492/2026",
+   "title": "Lei nº 2.492, de 26 de maio de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6107",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 13,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6107/lei_2492-26.pdf",
+     "sha256": "329cf407c6f47f4f9dcbdffea6ec616c1ab8cbc9db369adb06a21d4089c365b4"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02491",
+   "unit": "registro",
+   "short": "Lei 2491/2026",
+   "title": "Lei nº 2.491, de 20 de maio de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6106",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 7,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6106/lei_2491-26.pdf",
+     "sha256": "aafca8015849a11db6fae413b1a14a223d6c6039b9c53f1e0c7f9756e99f4b46"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02490",
+   "unit": "registro",
+   "short": "Lei 2490/2026",
+   "title": "Lei nº 2.490, de 19 de maio de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6105",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6105/lei_2490-26.pdf",
+     "sha256": "292e9943634f35d5b623305c6b7ae51afacb5015a7febd816432b39fb6301f4f"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02489",
+   "unit": "registro",
+   "short": "Lei 2489/2026",
+   "title": "Lei nº 2.489, de 19 de maio de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6104",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 11,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6104/lei_2489-26.pdf",
+     "sha256": "aa0986809b9729e728590a3b5b17db3b3c2d0db0231d56ce8138d6379d19c43e"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02488",
+   "unit": "registro",
+   "short": "Lei 2488/2026",
+   "title": "Lei nº 2.488, de 12 de maio de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6103",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6103/lei_2488-26.pdf",
+     "sha256": "a194b4c2b2803fe5ebe6c2304765cd81754a610051fb063685a926cb319dfed4"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02487",
+   "unit": "registro",
+   "short": "Lei 2487/2026",
+   "title": "Lei nº 2.487, de 12 de maio de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6102",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6102/lei_2487-26.pdf",
+     "sha256": "29ed9bbe1241b357d62527edda387c1ba0918519a6889ad7864d427954132487"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02486",
+   "unit": "registro",
+   "short": "Lei 2486/2026",
+   "title": "Lei nº 2.486, de 6 de maio de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6101",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 6,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6101/lei_2486-26.pdf",
+     "sha256": "b90ee54e133b3406a8554168f74864a3d01d3d750d985935b28ee1a4331fc5fb"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02485",
+   "unit": "registro",
+   "short": "Lei 2485/2026",
+   "title": "Lei nº 2.485, de 6 de maio de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6100",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 26,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6100/lei_2485-26_1.pdf",
+     "sha256": "347747ac12679f2777e84cfdf856fae9b33534c114eb9b569a044bd72525f7af"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02484",
+   "unit": "registro",
+   "short": "Lei 2484/2026",
+   "title": "Lei nº 2.484, de 6 de maio de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/6099",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/6099/lei_2484-26.pdf",
+     "sha256": "abb8964ab8509c3ac36f4ce214f62c7dc4bb9d19bd962de96e52407d30e04fd9"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02483",
+   "unit": "registro",
+   "short": "Lei 2483/2026",
+   "title": "Lei nº 2.483, de 30 de abril de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/5723",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/5723/lei_2483-26.pdf",
+     "sha256": "1e7ce3ede93e2271fd4d456dbd4f162606a7f775de20a968d74f39ff13f5fb0e"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02481",
+   "unit": "registro",
+   "short": "Lei 2481/2026",
+   "title": "Lei nº 2.481, de 30 de abril de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/5721",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 7,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/5721/lei_2481-26.pdf",
+     "sha256": "3b98eb72d1693ad4128d7ad56b0879d9d60950f4f4d936a16adec4cffeaa8794"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02480",
+   "unit": "registro",
+   "short": "Lei 2480/2026",
+   "title": "Lei nº 2.480, de 24 de abril de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/5720",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/5720/lei_2480-26.pdf",
+     "sha256": "4933ca78d223125a9372ae7015840a65f7197018c5a978aa240247200fe5e291"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02479",
+   "unit": "registro",
+   "short": "Lei 2479/2026",
+   "title": "Lei nº 2.479, de 14 de abril de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/5719",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/5719/lei_2479-26.pdf",
+     "sha256": "6433265fb02fce624f11a92a998934c6b963a44433561a7ac7a0ca07825c13e6"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02478",
+   "unit": "registro",
+   "short": "Lei 2478/2026",
+   "title": "Lei nº 2.478, de 14 de abril de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/5718",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 5,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/5718/lei_2478-26.pdf",
+     "sha256": "2a3e7a71929734065dfbd6fa355c223b52b220d885cd39dbd8a24298829b0770"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02475",
+   "unit": "registro",
+   "short": "Lei 2475/2026",
+   "title": "Lei nº 2.475, de 9 de abril de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/5715",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 6,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/5715/lei_2475-26.pdf",
+     "sha256": "ab1bf5dd63dee9f0c75e56d8c28e639e1f6d932f377471c104815a2878737ff2"
+    }
+   ]
+  },
+  {
+   "slug": "registro/lei-2026-02474",
+   "unit": "registro",
+   "short": "Lei 2474/2026",
+   "title": "Lei nº 2.474, de 27 de março de 2026",
+   "url": "https://sapl.registro.sp.leg.br/norma/5714",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 4,
+     "source_url": "https://sapl.registro.sp.leg.br/media/sapl/public/normajuridica/2026/5714/lei_2474-26.pdf",
+     "sha256": "fc32a230054fd867022931c525db0c95b5a0b5258e9ea7bdbd5b6ccf0050e576"
+    }
+   ]
+  },
+  {
    "slug": "sao-joao-da-boa-vista/lei-2026-05625",
    "unit": "sao-joao-da-boa-vista",
    "short": "Lei 5625/2026",
